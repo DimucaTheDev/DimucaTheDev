@@ -1,6 +1,5 @@
-Привет, Мир!
+# Привет, Мир!
 
-https://vk.com/DimDima09
 
 <!---
 DimucaTheDev/DimucaTheDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
